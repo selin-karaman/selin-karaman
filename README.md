@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpsMmV2bW52eTVjcm1mNTB4c2NsZXAyNDNnZzE4ajg0Z3J0aW9iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT3i1acWS2AQRKHgZi/giphy.gif" alt="Home_sleinkaraman” width="400" height="400">
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpsMmV2bW52eTVjcm1mNTB4c2NsZXAyNDNnZzE4ajg0Z3J0aW9iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT3i1acWS2AQRKHgZi/giphy.gif" alt="Home_sleinkaraman” width="300" height="300">
 </p>
 
 <h1 align="center">Hi, I'm Selin 🧚🏼‍♀️</h1>
@@ -17,7 +17,21 @@
 </p>
 
 <h4 align="left">📫 Connect with me: <a href="https://linkedin.com/in/selinkaraman" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="selinkaraman" height="30" width="30" /></a></h4>
-<h4 align="left">🤝🏻 I’m always open to teaming up on creative, impactful projects.</h4>
+
+
+
+###
+###
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sleinkaraman/sleinkaraman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sleinkaraman/sleinkaraman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sleinkaraman/sleinkaraman/output/pacman-contribution-graph.svg">
+</picture>
+
+
+
 
 ###
 
@@ -95,11 +109,8 @@
 </p>
 
 ###
+<p align="center">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNxc2ZpN3dsMWs4ZW1kMWNmYWN6emE1bnJjMTBpZ3dhemh6ajlndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYSJXhobX8LGcow/giphy.gif" alt="Home_sleinkaraman” width="500" height="300">
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sleinkaraman/sleinkaraman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sleinkaraman/sleinkaraman/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sleinkaraman/sleinkaraman/output/pacman-contribution-graph.svg">
-</picture>
 
-###
