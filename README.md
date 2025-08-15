@@ -6,6 +6,7 @@
 <h1 align="center">Hi, I'm Selin 🧚🏼‍♀️</h1>
 <h3 align="center">💻 Exploring the world of AI & Cloud — building scalable systems and smart applications.</h3>
 
+
 <h4 align="left"> 🚀 Currently diving into: </h4>
 
 - Cloud architecture and serverless solutions  
@@ -16,13 +17,11 @@
 
 </p>
 
-<h4 align="left">📫 Connect with me: <a href="https://linkedin.com/in/selinkaraman" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="selinkaraman" height="30" width="30" /></a></h4>
+<p <h4 align="left">📫 Connect with me: <a href="https://linkedin.com/in/selinkaraman" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="selinkaraman" height="30" width="30" /></a></h4>
+</p>
 
+***
 
-
-###
-###
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sleinkaraman/sleinkaraman/output/pacman-contribution-graph-dark.svg">
@@ -30,10 +29,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sleinkaraman/sleinkaraman/output/pacman-contribution-graph.svg">
 </picture>
 
+***
 
-
-
-###
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">
@@ -108,7 +105,8 @@
   </a>
 </p>
 
-###
+***
+
 <p align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHNxc2ZpN3dsMWs4ZW1kMWNmYWN6emE1bnJjMTBpZ3dhemh6ajlndSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYSJXhobX8LGcow/giphy.gif" alt="Home_sleinkaraman” width="500" height="300">
 </p>
