@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGpsMmV2bW52eTVjcm1mNTB4c2NsZXAyNDNnZzE4ajg0Z3J0aW9iYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT3i1acWS2AQRKHgZi/giphy.gif" alt="Home_sleinkaraman” width="500" height="300">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFqZG8yOWl2a3o1bmtxenVwajVyam1jbHFucGxjZjdxNnpocXlqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqDeI2yjpSRgdh35oe/giphy.gif" alt="Home_sleinkaraman” width="600" height="300">
 </p>
    
 <h1 align="center">Hi, I'm Selin 🧚🏼‍♀️</h1>
@@ -31,11 +31,8 @@
   </a>
 </p>
 
-<br>
-<br>
-
 <p align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWR2andiamw3ZG8zb3hlNWN0dm04NWtjZnQ3amg2cG05emQ0b2c2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TdfyKrN7HGTIY/giphy.gif" alt="Home_sleinkaraman” width="500" height="300">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sleinkaraman&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sleinkaraman&theme=jolly&hide_border=true" alt="Streak" />
 </p>
-
 
