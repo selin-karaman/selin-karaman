@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFqZG8yOWl2a3o1bmtxenVwajVyam1jbHFucGxjZjdxNnpocXlqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqDeI2yjpSRgdh35oe/giphy.gif" alt="Home_sleinkaraman” width="600" height="300">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFqZG8yOWl2a3o1bmtxenVwajVyam1jbHFucGxjZjdxNnpocXlqeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqDeI2yjpSRgdh35oe/giphy.gif" alt="Home_selin-karaman” width="600" height="300">
 </p>
    
 <h1 align="center">Hi, I'm Selin 🧚🏼‍♀️</h1>
@@ -19,9 +19,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sleinkaraman/sleinkaraman/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sleinkaraman/sleinkaraman/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sleinkaraman/sleinkaraman/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selin-karaman/selin-karaman/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/selin-karaman/selin-karaman/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/selin-karaman/selin-karaman/output/pacman-contribution-graph.svg">
 </picture>
 
 <h2 align="left">Languages and Tools</h2>
@@ -34,13 +34,13 @@
 <br>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sleinkaraman&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=sleinkaraman&theme=jolly&hide_border=true" alt="Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=selin-karaman&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=selin-karaman&theme=jolly&hide_border=true" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzZjBndWVxNGNucmY5aXp0b3V4aW9scnJnMnJ3ejlmeW82d2ExbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kIAqlhXa2LAC1FgTha/giphy.gif" width="25%" alt="Home_sleinkaraman_1">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzY3Y2RxazN3ajJlMXNibXlleWh1dTd0Yjc1bzM5bngyZTJsMThzeSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/tc5Wc7Uoa2tDmIk8ie/giphy.gif" width="25%" alt="Home_sleinkaraman_2">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czI0MTAyc3h6NnlqaHY0dXYyNzlsMjV0eDlkbXVtdjY5eTIzenBvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/U0f98vdEEP5RJ8b764/giphy.gif" width="25%" alt="Home_sleinkaraman_3">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzZjBndWVxNGNucmY5aXp0b3V4aW9scnJnMnJ3ejlmeW82d2ExbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kIAqlhXa2LAC1FgTha/giphy.gif" width="25%" alt="Home_selin-karaman_1">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzY3Y2RxazN3ajJlMXNibXlleWh1dTd0Yjc1bzM5bngyZTJsMThzeSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/tc5Wc7Uoa2tDmIk8ie/giphy.gif" width="25%" alt="Home_selin-karaman_2">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czI0MTAyc3h6NnlqaHY0dXYyNzlsMjV0eDlkbXVtdjY5eTIzenBvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/U0f98vdEEP5RJ8b764/giphy.gif" width="25%" alt="Home_selin-karaman_3">
 </p>
 
