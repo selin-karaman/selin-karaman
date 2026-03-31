@@ -34,7 +34,8 @@
 <br>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=selin-karaman&theme=jolly&show_icons=true&hide_border=true&count_private=true" alt="Stats" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=selin-karaman&show_icons=true&theme=jolly&hide_border=true" alt="Selin's GitHub stats" />
+  &nbsp;&nbsp;
   <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=selin-karaman&theme=jolly&hide_border=true" alt="Streak" />
 </p>
 
