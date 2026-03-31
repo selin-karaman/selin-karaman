@@ -35,8 +35,8 @@
 
 
 <p align="center">
-  <img width="48%" height="195" src="https://github-readme-stats-fast.vercel.app/api?username=selin-karaman&show_icons=true&theme=jolly&hide_border=true" />
-  <img width="48%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=selin-karaman&theme=jolly&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=selin-karaman&show_icons=true&theme=jolly&hide_border=true" width="45%" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selin-karaman&theme=jolly&hide_border=true" width="45%" height="170" />
 </p>
 
 
