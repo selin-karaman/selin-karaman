@@ -33,11 +33,13 @@
 
 <br>
 
+
 <p align="center">
-  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=selin-karaman&show_icons=true&theme=jolly&hide_border=true" alt="Selin's GitHub stats" />
-  &nbsp;&nbsp;
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=selin-karaman&theme=jolly&hide_border=true" alt="Streak" />
+  <img width="48%" height="195" src="https://github-readme-stats-fast.vercel.app/api?username=selin-karaman&show_icons=true&theme=jolly&hide_border=true" />
+  <img width="48%" height="195" src="https://github-readme-streak-stats.herokuapp.com/?user=selin-karaman&theme=jolly&hide_border=true" />
 </p>
+
+
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzZjBndWVxNGNucmY5aXp0b3V4aW9scnJnMnJ3ejlmeW82d2ExbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kIAqlhXa2LAC1FgTha/giphy.gif" width="25%" alt="Home_selin-karaman_1">
