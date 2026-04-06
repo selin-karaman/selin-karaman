@@ -33,12 +33,9 @@
 
 <br>
 
-
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=selin-karaman&show_icons=true&theme=jolly&hide_border=true" 
-       style="width: 400px; height: 170px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selin-karaman&theme=jolly&hide_border=true" 
-       style="width: 400px; height: 170px;" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=selin-karaman&show_icons=true&theme=jolly&hide_border=true" width="%40" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selin-karaman&theme=jolly&hide_border=true" width="%40" height="175" />
 </p>
 
 
@@ -49,3 +46,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czI0MTAyc3h6NnlqaHY0dXYyNzlsMjV0eDlkbXVtdjY5eTIzenBvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/U0f98vdEEP5RJ8b764/giphy.gif" width="25%" alt="Home_selin-karaman_3">
 </p>
 
+<p align="center">
+<img
+src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selin-karaman&theme=jolly" width="800" height="300" />
+</p>
