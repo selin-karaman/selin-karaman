@@ -34,8 +34,8 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=selin-karaman&show_icons=true&theme=jolly&hide_border=true" width="%40" height="175" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selin-karaman&theme=jolly&hide_border=true" width="%40" height="175" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=selin-karaman&show_icons=true&theme=jolly&hide_border=true" width="%25" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=selin-karaman&theme=jolly&hide_border=true" width="%25" height="160" />
 </p>
 
 
@@ -48,5 +48,5 @@
 
 <p align="center">
 <img
-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selin-karaman&theme=jolly" width="800" height="300" />
+src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selin-karaman&theme=jolly" width="700" height="250" />
 </p>
