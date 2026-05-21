@@ -3,7 +3,7 @@
 </p>
    
 <h1 align="center">Hi, I'm Selin 🧚🏼‍♀️</h1>
-<h3 align="center"> Computer Engineering Student | AWS Cloud Club Captain | Cloud & DevOps Enthusiast </h3><p align="center">
+<h3 align="center"> Computer Engineering Student | AWS Student Builder Group Leader | Cloud & DevOps Enthusiast </h3><p align="center">
  
 </p>
 
