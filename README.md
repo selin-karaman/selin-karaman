@@ -45,8 +45,3 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NzY3Y2RxazN3ajJlMXNibXlleWh1dTd0Yjc1bzM5bngyZTJsMThzeSZlcD12MV9zdGlja2Vyc19yZWxhdGVkJmN0PXM/tc5Wc7Uoa2tDmIk8ie/giphy.gif" width="25%" alt="Home_selin-karaman_2">
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3czI0MTAyc3h6NnlqaHY0dXYyNzlsMjV0eDlkbXVtdjY5eTIzenBvbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/U0f98vdEEP5RJ8b764/giphy.gif" width="25%" alt="Home_selin-karaman_3">
 </p>
-
-<p align="center">
-<img
-src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=selin-karaman&theme=jolly" width="700" height="250" />
-</p>
