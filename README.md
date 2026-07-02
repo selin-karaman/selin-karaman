@@ -7,7 +7,6 @@
  
 </p>
 
-
 <h4 align="left"> ☁️ Currently diving into: </h4>
 
 - **Cloud & DevOps:** Exploring scalable cloud-native solutions and containerization with Docker & Kubernetes.
@@ -16,7 +15,6 @@
 
 <p <h4 align="left">📫 Connect with me: <a href="https://linkedin.com/in/selinkaraman" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="selinkaraman" height="30" width="30" /></a></h4>
 </p>
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/selin-karaman/selin-karaman/output/pacman-contribution-graph-dark.svg">
@@ -37,8 +35,6 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=selin-karaman&show_icons=true&theme=jolly&hide_border=true" width="%25" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=selin-karaman&theme=jolly&hide_border=true" width="%25" height="160" />
 </p>
-
-
 
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2IzZjBndWVxNGNucmY5aXp0b3V4aW9scnJnMnJ3ejlmeW82d2ExbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kIAqlhXa2LAC1FgTha/giphy.gif" width="25%" alt="Home_selin-karaman_1">
