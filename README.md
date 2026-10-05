@@ -7,9 +7,9 @@
 
 <h4 align="left"> ☁️ Currently diving into: </h4>
 
-- **Cloud & DevOps:** Exploring scalable cloud-native solutions and containerization with Docker & Kubernetes.
-- **Infrastructure:** Gaining deeper insights into serverless architectures and automated workflows.
-- **Data & AI:** Working with NLP applications and ML-based predictive models.
+- **Cloud & DevOps:** Building containerized environments and exploring scalable, reliable infrastructure.
+- **Infrastructure & Automation:** Working with Infrastructure as Code, CI/CD workflows, Linux systems, and infrastructure automation.
+- **Platform & Observability:** Exploring Kubernetes, monitoring, service reliability, and modern platform engineering practices.
 
 <p <h4 align="left">📫 Connect with me: <a href="https://linkedin.com/in/selinkaraman" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="selinkaraman" height="30" width="30" /></a></h4>
 </p>
@@ -34,9 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=selin-karaman&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" width="%25" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=selin-karaman&theme=midnight-purple&hide_border=true" width="%25" height="160" />
 </p>
-
-
-
 
 
 
