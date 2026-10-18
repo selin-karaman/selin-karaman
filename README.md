@@ -5,6 +5,12 @@
  
 </p>
 
+
+<p align="center">
+  <img src="https://media3.giphy.com/media/kIAqlhXa2LAC1FgTha/giphy.gif" alt="GIF" width="300">
+</p>
+
+
 <h4 align="left"> ☁️ Currently diving into: </h4>
 
 - **Cloud & DevOps:** Building containerized environments and exploring scalable, reliable infrastructure.
